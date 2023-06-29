@@ -1,0 +1,9 @@
+.banner{
+    background-image: url("./imagen-horizontal.jpg");
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    height: 500px;
+    color: #FFF;
+}
